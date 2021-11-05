@@ -12,6 +12,8 @@ communication文件夹————串口中断通信工程文件
 
 知识学习pdf文件
 
+DMA interrupt——不定长数据收发
+
 TimerInterrupt——定时器中断工程文件（由于一秒不明显，把中断周期改成了五秒）
 
 PWM_Output——输出指定频率占空比PWM波工程文件
