@@ -18,3 +18,11 @@ TimerInterrupt——定时器中断工程文件（由于一秒不明显，把中
 
 PWM_Output——输出指定频率占空比PWM波工程文件
 
+嵌软三（第二部分）压缩包中包含：
+
+状态机、舵机驱动知识学习pdf文件
+
+TimerFSM——状态机消抖工程文件
+
+SteeringEngine——舵机控制工程文件
+
